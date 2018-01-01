@@ -1,4 +1,4 @@
-# OpenCart Category-Tab Module for OpenCart 3.x
+# OpenCart Tabs Category Module for OpenCart 3.x
 
 Bellow example with an image module on site
 
