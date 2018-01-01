@@ -10,4 +10,4 @@ Bellow example with an image module in admin pannel
 
 # IMPORTANT
 
-Required bootstrap.js and bootatrap.css on site. Or you can write styles and js code yourself
+Required bootstrap.js and bootatrap.css on site. Or you can write styles and js code yourself.
